@@ -1,2 +1,5 @@
 # My Fist Web Page 
-my developments
+
+
+devloped by:
+The Vijay Bharkade
